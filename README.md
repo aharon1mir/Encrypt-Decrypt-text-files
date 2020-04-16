@@ -1,2 +1,2 @@
-# Encrypt-text-files
-python (3) script for encrypt text files
+# Encrypt\Decrypt-text-files
+for Encrypt or Decrypt text files using python(3)
